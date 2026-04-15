@@ -2,7 +2,7 @@
 
 > **本文档是给 AI 编程工具**（Claude Code、ChatGPT Codex、Cursor 等）参考的技术规范，用于指导 APP 开发——APP 是 LLM Skill 的 Pipeline 驱动进化形态。
 
-[English](README.md)
+[English](README.md) | [设计原则](agent-pipeline-protocol-design-principles_zh.md)
 
 ---
 

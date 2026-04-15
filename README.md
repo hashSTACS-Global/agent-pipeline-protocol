@@ -2,7 +2,7 @@
 
 > **This is a technical specification for AI coding tools** (Claude Code, ChatGPT Codex, Cursor, etc.) to follow when developing APPs — the pipeline-driven evolution of LLM Skills.
 
-[中文文档](README_zh.md)
+[中文文档](README_zh.md) | [Design Principles](agent-pipeline-protocol-design-principles.md)
 
 ---
 
